@@ -1,0 +1,20 @@
+快速实现自己的模块，选用自己喜欢的插件
+  访问网站： 1.http：//twitter.github.io/bootstrap/中选择Customize（定制）页面
+            2.choose components（选择组件），进行勾选自己需要的组件
+            其中脚手架是必须选择的内容，它是页面基本样式和布局，Scaffolding（脚手架）：Bsae css，Components，JS components，Miscellaneous（杂项），
+            Respisive（响应式交互）
+            3.选择jQuery插件
+            4.定制变量，切换到LESS变量定制区
+            5.打包下载
+Bootstrap文件结构：
+    css
+    js
+    fonts
+Bootstrap架构解析
+    脚手架：全局性的样式文件、用于重置背景、链接样式、栅格系统等
+    基本css样式：常用的HTML元素样式，如排版、代码、表格、表单、按钮样式
+    Bootstrap组件：常用界面组件，如标签、导航、警告、页面标题的基本样式
+    JavaScript插件：和组件类似，工具提示（Tooltip）、弹出提示（Popover）、模态对话框（Model）等具有交互性的组件
+    
+
+    
