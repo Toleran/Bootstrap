@@ -1,0 +1,31 @@
+Bootstrap简介
+  构成模块分为五个部分：1.页面布局 2.页面排版 3.基本组件 4.jQuery插件 5.动态样式语言LESS
+Bootstrap框架的主要特色：
+  1.由匠人造，为匠人用
+  2.适应各种技术
+  3.跨设备、跨浏览器
+  4.提供12列栅格布局
+  5.支持响应式布局
+  6.样式化的文档
+  7.不断完善的代码库
+  8.可定制的jQuery插件
+  9.选用LESS构建动态样式
+  10.支持HTML5和CSS3
+  11.提供开源代码
+Bootstrap的主要功能
+    栅格系统
+    布局
+    字体样式
+    多媒体展现
+    表单
+    导航等
+Bootstrap插件：1.Sco.js，对Bootstrap的Javascript插件实现的增强
+              2.Char.js图表绘制工具库
+              3.bsie是针对IE6的兼容性
+              4.jQuery UI Bootstrap使用jQuery UI控件可以和Bootstrap完美融合
+              5.Flat UI是一个升级的，外观很漂亮
+              6.Metro UI CSS
+              7.HTML5 Boilerplate是一套专业的前端模板，开发快速的APP或者网站
+              8.BootstrapEd基于Bootstrap进行了优化，增强Bootstrap中的插件，增加了有价值的通用组件
+Bootstrap开发工具：一个专门的开发工具，可以实现拖拽开发，Jetsrap
+                                                  Layout It工具，在线编辑
